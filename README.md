@@ -6,6 +6,8 @@ tags:
 因为使用 [obsidian](https://obsidian.md/) 编写，有些内容可能没有换行  
 还有一下数学符号使用了简写替换，所以可能显示有问题  
 
+preamble.sty 文件就是简写的替换
+
 # 目录
 
 [C++](C++/README.md)  
